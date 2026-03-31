@@ -56,7 +56,7 @@ Dataset simulado con información de ventas que incluye:
 ---
 
 ### Ingreso vs Utilidad
-![Ingreso vs Utilidad](visuals/ingreso_vs_utilidad.png)
+![Ingreso vs Utilidad](visuals/ingreso_vs_utiloidad.png)
 
 ---
 
