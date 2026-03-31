@@ -45,7 +45,23 @@ Dataset simulado con información de ventas que incluye:
 2. Cálculo de métricas clave (ingreso, costo, utilidad, margen)  
 3. Tabla dinámica por producto  
 4. Comparación entre volumen, utilidad y margen  
-5. Clasificación estratégica de productos  
+5. Clasificación estratégica de productos
+
+---
+## 📊 Visualización del análisis
+
+### Utilidad por producto
+![Utilidad por producto](visuals/utilidad_por_producto.png)
+
+---
+
+### Ingreso vs Utilidad
+![Ingreso vs Utilidad](visuals/ingreso_vs_utilidad.png)
+
+---
+
+### Margen por producto
+![Margen por producto](visuals/margen_por_producto.png)
 
 ---
 
