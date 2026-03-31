@@ -51,17 +51,17 @@ Dataset simulado con información de ventas que incluye:
 ## 📊 Visualización del análisis
 
 ### Utilidad por producto
-(utilidad_por_producto.png)
+![Utilidad por producto](utilidad_por_producto.png)
 
 ---
 
 ### Ingreso vs Utilidad
-(ingreso_vs_utilidad.png)
+![Ingreso vs Utilidad](ingreso_vs_utilidad.png)
 
 ---
 
 ### Margen por producto
-(margen_por_producto.png)
+![Margen por Producto](margen_por_producto.png)
 
 ---
 
